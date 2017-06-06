@@ -21,7 +21,7 @@ function numTest ($fizz, $buzz, $quantity){
 				echo ($cikl == $quantity) ? "$cikl." : "$cikl ";
 			}
 		}
-	//
+	//grgrgrheaheaheah
 	}else	echo "error";
 }
 echo numTest($fizz, $buzz, $quantity);
